@@ -1,0 +1,23 @@
+{
+  "name": "asyncgo",
+  "version": "0.0.1",
+  "description": "Provides a wrapper method for easily integrating asynchronous callbacks with Async.js.",
+  "author": {
+    "name": "Travis Tidwell",
+    "email": "travist349@gmail.com",
+    "url": "http://github.com/travist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/travist/async.go.js.git"
+  },
+  "bugs": {
+    "url": "http://github.com/travist/async.go.js/issues"
+  },
+  "main": "./lib/async.go.js",
+  "engines": { "node": ">=0" },
+  "dependencies": {
+    "async": ">=0",
+    "underscore": ">=0"
+  }
+}
