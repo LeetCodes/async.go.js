@@ -1,6 +1,6 @@
 {
   "name": "asyncgo",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Provides a wrapper method for easily integrating asynchronous callbacks with Async.js.",
   "author": {
     "name": "Travis Tidwell",
